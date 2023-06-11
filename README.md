@@ -34,5 +34,5 @@ npm install -g newman-reporter-htmlextra
 newman run Grafana-Promethus-Automation.postman_collection.json -e Prometheus-Env.postman_environment.json -r htmlextra Grafana-Newman-Report.html --insecure
 ```
 
-![Logo](https://axiatadigitallabssl-my.sharepoint.com/:i:/r/personal/vikum_sugathadasa_axiatadigitallabs_com/Documents/Attachments/Newman-Report01.PNG?csf=1&web=1&e=jqz6Py)
+![Logo](https://github.com/vikum1407/postman-scripting-javascript/blob/master/Newman-Report01.PNG)
 
